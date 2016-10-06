@@ -1,6 +1,8 @@
 # redis-paulidecomposition
 Lua script for Redis to apply pauli decomposition in PolSAR matrices.
 
+* Get PolSAR data: https://www.asf.alaska.edu
+
 ## Requeriments
 
 * Redis 3.2+ server running
